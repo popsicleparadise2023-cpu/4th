@@ -1,0 +1,34 @@
+print("Enter marks obtained in 5 subjects")
+
+mark1 = int(input())
+
+mark2 = int(input())
+
+mark3 = int(input())
+
+mark4 = int(input())
+
+mark5 = int(input())
+
+avg = mark1+mark2+mark3+mark4+mark5
+
+tot = avg/5
+
+if tot>=91 and tot<100:
+ print("your grade is A1")
+elif tot>=81 and tot<=91:
+ print("your grade is A2")
+elif tot>=71 and tot<=81:
+ print("your grade is B1")
+elif tot>=61 and tot<= 71:
+ print("your grade is B2")
+elif tot>= 51 and tot<= 61:
+ print(" Your grade is C1")
+elif tot>= 41 and tot<= 51:
+ print("your grade is C2")
+elif tot>= 31 and tot<= 41:
+ print("your mark is D")
+elif tot<=31:
+ print("your mark is F")
+else:
+ print("invalid input!")
