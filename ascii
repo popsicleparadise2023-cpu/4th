@@ -1,0 +1,4 @@
+character = input("enter a character")
+# ascii_value = ord(character)
+
+# print("The ASCII value of", character, "is", ascii_value)
