@@ -1,0 +1,21 @@
+A = 4
+# B = 3
+# C = 8
+# D = 9 
+# E = 2
+# F = 12
+
+# g = (A + B) *C/D
+# print("Value of (A + B) * C/D is", g)
+
+
+
+
+# Name = "Peter"
+# age = 0
+
+# if Name == "Alex" or Name == "John" and age >= 2:
+#  print("Hello welcome")
+# else:
+#  print("Goodbye!")
+
