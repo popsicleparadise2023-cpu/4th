@@ -1,0 +1,10 @@
+# Making variables for numerator and denominator
+num =int(input("Enter a number (Numerator): "))
+den = int(input("enter a Number ( Denominator): "))
+
+
+# Conditional statements
+if num%den==0:
+  print("\n" +str(num) + "is divisible by" +  str(den))
+else:
+  print("\n" + str(num)+ "is not divisible by" + str(den))
