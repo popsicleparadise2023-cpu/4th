@@ -1,0 +1,11 @@
+
+
+A = 5
+# B = 10
+# C = 15
+
+# A, B, C, = B, A, C
+
+# print("A is", A)
+# print("B is", B)
+# print("C is", C)
